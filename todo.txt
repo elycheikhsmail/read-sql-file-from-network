@@ -1,0 +1,5 @@
+//init vscode for deno
+io
+read sqlfile form network
+
+save file in local
